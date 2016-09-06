@@ -14,6 +14,8 @@ int main()
 	cout << "enter a name" << endl;
 	gets_s(name);
 	cout << "your name is " << name << endl;
+	cout << "your done" << endl;
+
     return 0;
 }
 
